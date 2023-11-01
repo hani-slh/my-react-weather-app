@@ -8,7 +8,7 @@ function App() {
         <Weather defaultCity="New York" />
         <footer>
           Open-source code by{" "}
-          <a href="https://github.com/hani-slh/weather-app-react-project">
+          <a href="https://github.com/hani-slh/my-react-weather-app">
             Haniye Salehi
           </a>
         </footer>
